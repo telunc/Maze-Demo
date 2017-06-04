@@ -33,3 +33,6 @@ sysinfo.txt
 
 # Builds
 *.apk
+Assets/GoogleVR/GVRBackwardsCompatibility.unitypackage
+Assets/GoogleVR/GVRVideoPlayer.unitypackage
+Assets/GoogleVR/GVRiOSNativeCompatibility.unitypackage
